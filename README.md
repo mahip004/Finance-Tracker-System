@@ -10,6 +10,8 @@ Expense Tracking: Add, edit, and delete expenses.
 Expense Categories: Organize expenses into categories.
 Reports and Analytics: View summaries and graphical representations of expenses.
 Responsive Design: Optimized for both desktop and mobile devices.
+
+
 **Technologies**
 
 Frontend: React.js
@@ -18,6 +20,8 @@ Database: MongoDB
 State Management: React Context API or Redux (if applicable)
 Styling: CSS or a CSS framework like Bootstrap or Material-UI
 Authentication: JWT (JSON Web Tokens)
+
+
 **Installation Prerequisites**
 
 Node.js
