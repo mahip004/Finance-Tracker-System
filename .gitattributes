@@ -1,0 +1,9 @@
+# Ensure consistent line endings for all text files
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.sh text eol=lf
+*.bat text eol=crlf
+*.md text
+*.jpg binary
+*.png binary

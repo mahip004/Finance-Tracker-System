@@ -1,0 +1,9 @@
+/* HomePage.css */
+.background-container {
+  background-image: url('background.jpg'); /* Update the path to your image */
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating */
+  min-height: 100vh; /* Ensure the background covers the viewport height */
+  padding: 20px; /* Optional: Add padding to the container */
+}
