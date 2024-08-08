@@ -1,4 +1,4 @@
-**Expense Management App**
+**Finance Tracker App**
 
 Overview
 The Expense Management App is a full-stack application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to manage and track their expenses efficiently. Users can add, update, delete, and view their expenses with ease.
